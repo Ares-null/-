@@ -7,7 +7,7 @@
 ![Aaron Swartz](https://github.com/Ares-null/-/blob/master/%E9%A1%B5%E9%9D%A22.jpg)
 # -4、黏贴下列js代码
 
-function fun(){
+<p>function fun(){
 	var inp=document.getElementsByTagName("input");
     var eg = /^pj.*1$/;
     var eg2 =  /^pj.*2$/; 
@@ -28,7 +28,7 @@ function fun(){
         }
     }
 };
-fun();
+fun();</p>
 # -5回车运行即可
 
 ps ： 理论上智科技教务系统均可如此操作，此程序除了第十条均会选择“非常满意”，如需修改可按注释操作
