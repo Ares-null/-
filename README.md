@@ -6,7 +6,7 @@
 # -3、点击console（控制台）
 ![Aaron Swartz](https://github.com/Ares-null/-/blob/master/%E9%A1%B5%E9%9D%A22.jpg)
 # -4、黏贴下列js代码
-
+```
 <p>function fun(){
 	var inp=document.getElementsByTagName("input");
     var eg = /^pj.*1$/;
@@ -28,6 +28,7 @@
         }
     }
 };
+```
 fun();</p>
 # -5回车运行即可
 
